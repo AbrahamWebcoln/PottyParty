@@ -1,0 +1,78 @@
+
+Version 1.7.1
+    + All plugins Updated
+    + Social login improved
+
+Version 1.7
+     + All plugins Updated
+     + Updated Slider Revolution 5.2.5.4
+     + Slides Updated for Slider Revolution 5.2.5.4
+     + TGMPA Updated
+     + Minor css update
+     + Google Map update
+
+Version 1.6.9
+    + Registration form fixed
+    + Minor css update
+
+Version 1.6.8
+     + Plugins included into the theme are updated to their latest versions
+     + Wordpress 4.5 ready
+
+Version 1.6.7
+    * Mobile menu update
+
+Version 1.6.6
+    * WooCommerce fixed
+
+Version 1.6.5
+    * Translation fixed
+
+Version 1.6.4
+    * Woocommerce Cart fixed
+
+Version 1.6.3
+    * Slider Home 3 responsive is fixed
+    * Google Map marker description is fixed
+    * Visual Composer is updated to its latest version (4.9.2)
+
+Version 1.6.2
+    * Visual Composer is updated to its latest version (4.7.4)
+
+Version 1.6.1
+    * Post date display is fixed
+
+Version 1.6
+	+ Theme compatibility with LearnDash LMS Plugin is added.
+	* Theme compatibility with Tribe Events Calendar is improved.
+    * Dependencies checker in multitabs shortcodes is fixed.
+	* Countdown in the single course detect start time as first substring HH:mm in the shedule field (in 24H format)
+	* Appearance of [trx_audio] on iPad and iPhone is improved.
+    * Layout of shortcode [trx_gap] is fixed.
+    * New user registration popup appear only if WordPress checkbox 'Anyone can register' is checked.
+	+ Plugins included in the theme, updated to their latest versions.
+
+Version 1.5
+	+ Visual Composer updated to its latest version
+
+Version 1.4
+	+ Visual Composer updated to its latest version
+	+ Pretty Photo updated to its recent version
+	+ Title for the Google map markers is added
+
+Version 1.3
+	* Improved documentation
+	* Few minor fixes
+
+Version 1.2
+	+ Function of hover effect adding in the shortcode ‘title’ is improved 
+	* Revolution Slider in mobile version is fixed 
+	+ Import of WooCommerce settings is added: image’s dimensions will be relevant to those presented in the theme, and it won’t require an individual setting after WoCommerce installation.
+
+Version 1.3
+	+ Plugins included into the theme are updated to their latest versions
+
+Version 1.1
+	+ Added: Built-in demo data import
+
+Version 1.0 – Release

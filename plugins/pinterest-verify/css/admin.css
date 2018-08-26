@@ -1,0 +1,44 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+
+/* Layout the page similar to the built-in post edit screen. */
+
+#pvr-settings {
+	margin-right: 310px;
+}
+
+#pvr-settings-content {
+	width: 100%;
+	float: left;
+}
+
+#pvr-settings-sidebar {
+	float: right;
+	margin-right: -310px;
+	width: 290px;
+}
+
+#pvr-settings-sidebar .centered {
+	text-align: center;
+}
+
+#pvr-settings-sidebar .button-large {
+	font-size: 17px;
+	line-height: 30px;
+	height: 32px;
+}
+
+#pvr-settings-sidebar .last-blurb {
+	font-size: 17px;
+}
+
+/* postbox overrides */
+#pvr-settings-sidebar .sidebar-container .postbox .inside,
+#pvr-settings-sidebar .sidebar-container .postbox .inside ul {
+	margin-bottom: 0;
+}
+
+/* Screenshots */
+#pvr-settings .pvr-screenshot {
+	border: 1px solid #ccc;
+	margin: 15px 0;
+}
